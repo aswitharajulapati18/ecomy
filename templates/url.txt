@@ -1,0 +1,1 @@
+tml="{{url_for('pay',itemid=i[0],name=i[1],price=i[3])}}
